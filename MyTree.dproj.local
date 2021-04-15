@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.430,C:\Лабораторные\6 блок\l1\UnitAddNumber.pas=C:\Лабораторные\6 блок\l1\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.512,C:\Лабораторные\6 блок\l1\UnitAddNumber.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.875,=C:\Лабораторные\6 блок\l1\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.283,C:\Лабораторные\6 блок\l1\funcOfList.pas=C:\Лабораторные\6 блок\l1\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.058,C:\Лабораторные\6 блок\l2\form\Unit2.pas=C:\Лабораторные\6 блок\l2\form\Tree.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.149,=C:\Лабораторные\6 блок\l2\form\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.961,C:\Users\Ekaterina\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Лабораторные\6 блок\l1\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.029,=C:\Лабораторные\6 блок\l1\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.336,C:\Лабораторные\6 блок\l2\form\Unit1.dfm=C:\Лабораторные\6 блок\l2-без dll\MainFormTree.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.223,C:\Users\Ekaterina\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Лабораторные\6 блок\l1\Project1.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.336,C:\Лабораторные\6 блок\l2\form\Unit1.pas=C:\Лабораторные\6 блок\l2-без dll\MainFormTree.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.961,C:\Users\Ekaterina\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Лабораторные\6 блок\l1\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.005,C:\Лабораторные\6 блок\l2\form\Project1.dproj=C:\Лабораторные\6 блок\l2-без dll\MyTree.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.430,C:\Лабораторные\6 блок\l1\UnitAddNumber.dfm=C:\Лабораторные\6 блок\l1\Unit2.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.648,=C:\Users\Ekaterina\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
